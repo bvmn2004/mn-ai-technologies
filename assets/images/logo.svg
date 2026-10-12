@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" fill="none" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">MN AI Technologies Logo</title>
+  <desc id="logoDesc">Biểu tượng chữ MN trên nền gradient và tên thương hiệu MN AI Technologies</desc>
+  <rect width="48" height="48" rx="14" fill="url(#logo_grad)" />
+  <path d="M12 33V15H16.2L20.8 25.5L25.4 15H29.6V33H25.8V21.4L21.5 31.2H20.1L15.8 21.4V33H12Z" fill="white"/>
+  <path d="M32 33V15H36L41.5 26.2V15H45V33H41L35.5 21.8V33H32Z" fill="white"/>
+  <circle cx="44" cy="13" r="2.5" fill="#22D3EE"/>
+  <text x="58" y="27" fill="url(#text_grad)" font-family="Space Grotesk, Inter, sans-serif" font-weight="700" font-size="20" letter-spacing="-0.5">MN AI</text>
+  <text x="59" y="39" fill="#64748B" font-family="Inter, sans-serif" font-weight="600" font-size="9.5" letter-spacing="1.5">TECHNOLOGIES</text>
+  <defs>
+    <linearGradient id="logo_grad" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="text_grad" x1="58" y1="20" x2="120" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+</svg>
